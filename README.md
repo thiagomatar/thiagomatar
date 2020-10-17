@@ -1,4 +1,14 @@
-### Hi there 👋
+![capa github](https://github.com/thiagomatar/thiagomatar/blob/main/images/thiagomatar-cover.png)  
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomatar&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagomatar&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
 
 <!--
 **thiagomatar/thiagomatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
