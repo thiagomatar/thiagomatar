@@ -29,17 +29,6 @@ Observability → Datadog, Prometheus, Grafana
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [api-graphql-springboot](https://github.com/thiagomatar/api-graphql-springboot) | GraphQL API with Spring Boot |
-| [spring-cloud-gateway-example](https://github.com/thiagomatar/spring-cloud-gateway-example) | API Gateway patterns with Spring Cloud |
-| [palestra-oauth2-jwt-springboot](https://github.com/thiagomatar/palestra-oauth2-jwt-springboot) | OAuth2 + JWT authentication demo |
-| [kafka-poc](https://github.com/thiagomatar/kafka-poc) | Kafka messaging proof of concept |
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomatar/)
